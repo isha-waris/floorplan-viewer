@@ -1,0 +1,26 @@
+.header {
+  background-color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: darkblue;
+}
+
+h1 {
+  margin: 0;
+}
+
+.controls button {
+  background-color: darkblue;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 5px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+.controls button:hover {
+  background-color: #777;
+}
